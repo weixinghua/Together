@@ -74,7 +74,7 @@
     //目的Label
     UILabel *_goldLabel;
     _goldLabel = [[UILabel alloc ]initWithFrame:CGRectMake(100,10,80,50)];
-    _goldLabel.text = @"踢球！";
+    _goldLabel.text = @"一起踢球！";
     _goldLabel.font = [UIFont boldSystemFontOfSize:35];
     _goldLabel.textAlignment = NSTextAlignmentCenter;
     _goldLabel.adjustsFontSizeToFitWidth = YES;
