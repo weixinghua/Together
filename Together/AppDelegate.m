@@ -19,7 +19,7 @@
     MainViewController *mainViewPicture;
     mainViewPicture = [[MainViewController alloc]init];
     self.window.rootViewController = mainViewPicture;
-    
+     
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
     return YES;
